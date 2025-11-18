@@ -1,0 +1,27 @@
+name: Release
+
+on:
+    push:
+        branches: [main]
+
+permissions:
+    contents: write
+
+jobs:
+    release:
+        if: contains(github.event.head_commit.message, '--release')
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Install dependencies
+              run: sudo apt update -y && sudo apt install php composer -y
+
+            - name: Build release
+              run: make all package
+
+            - name: Create release
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: gh release create latest server.tgz

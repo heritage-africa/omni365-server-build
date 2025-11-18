@@ -34,3 +34,6 @@ clean:
 
 clean-git: clean
 	git checkout -- dist
+
+package:
+	tar -czf server.tgz dist
