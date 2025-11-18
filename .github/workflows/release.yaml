@@ -2,8 +2,7 @@ name: Release
 
 on:
     push:
-        branches:
-            - main
+        branches: [main]
 
 permissions:
     contents: write
@@ -20,7 +19,7 @@ jobs:
               run: sudo apt update -y && sudo apt install php composer -y
 
             - name: Build release
-              run: make all package
+              run: sudo chmod +x build/npm-post-build.sh && make all package
 
             - name: Create release
               env:
