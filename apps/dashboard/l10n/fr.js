@@ -3,7 +3,7 @@ OC.L10N.register(
     {
     "Dashboard" : "Tableau de bord",
     "Dashboard app" : "App Tableau de bord",
-    "Start your day informed\n\nThe Nextcloud Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking." : "Commencez votre journée en étant informé\n\nLe tableau de bord Nextcloud est votre point de départ de la journée, vous donnant un aperçu de vos rendez-vous à venir, des e-mails urgents, des messages de discussion, des tickets entrants, des derniers tweets et bien plus encore ! Les personnes peuvent ajouter les widgets qu’ils souhaitent et changer l’arrière-plan à leur guise.",
+    "Start your day informed\n\nThe Omni365 Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking." : "Commencez votre journée en étant informé\n\nLe tableau de bord Omni365 est votre point de départ de la journée, vous donnant un aperçu de vos rendez-vous à venir, des e-mails urgents, des messages de discussion, des tickets entrants, des derniers tweets et bien plus encore ! Les personnes peuvent ajouter les widgets qu’ils souhaitent et changer l’arrière-plan à leur guise.",
     "Weather" : "Météo",
     "Status" : "Statut",
     "Good morning" : "Bonjour",
@@ -24,6 +24,6 @@ OC.L10N.register(
     "Weather data from Met.no" : "Données météo fournies par Met.no",
     "geocoding with Nominatim" : "Géocodage avec Nominatim",
     "elevation data from OpenTopoData" : "Données d’altitude provenant d’OpenTopoData",
-    "For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information." : "Afin de protéger votre vie privée, les données météorologiques sont demandées par votre serveur Nextcloud à votre place afin que le service météo ne reçoive aucune information personnelle."
+    "For your privacy, the weather data is requested by your Omni365 server on your behalf so the weather service receives no personal information." : "Afin de protéger votre vie privée, les données météorologiques sont demandées par votre serveur Omni365 à votre place afin que le service météo ne reçoive aucune information personnelle."
 },
 "nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

@@ -6,7 +6,7 @@ OC.L10N.register(
     "Couldn't establish a federated share." : "Couldn't establish a federated share.",
     "Couldn't establish a federated share, maybe the password was wrong." : "Couldn't establish a federated share, maybe the password was wrong.",
     "Federated Share request sent, you will receive an invitation. Check your notifications." : "Federated Share request sent, you will receive an invitation. Check your notifications.",
-    "Couldn't establish a federated share, it looks like the server to federate with is too old (Nextcloud <= 9)." : "Couldn't establish a federated share, it looks like the server to federate with is too old (Nextcloud <= 9).",
+    "Couldn't establish a federated share, it looks like the server to federate with is too old (Omni365 <= 9)." : "Couldn't establish a federated share, it looks like the server to federate with is too old (Omni365 <= 9).",
     "It is not allowed to send federated group shares from this server." : "It is not allowed to send federated group shares from this server.",
     "Sharing %1$s failed, because this item is already shared with the account %2$s" : "Sharing %1$s failed, because this item is already shared with the account %2$s",
     "Not allowed to create a federated share to the same account" : "Not allowed to create a federated share to the same account",
@@ -44,9 +44,9 @@ OC.L10N.register(
     "Allow people to publish their data to a global and public address book" : "Allow people to publish their data to a global and public address book",
     "Trusted federation" : "Trusted federation",
     "Automatically accept shares from trusted federated accounts and groups by default" : "Automatically accept shares from trusted federated accounts and groups by default",
-    "Share with me through my #Nextcloud Federated Cloud ID, see {url}" : "Share with me through my #Nextcloud Federated Cloud ID, see {url}",
-    "Share with me through my #Nextcloud Federated Cloud ID" : "Share with me through my #Nextcloud Federated Cloud ID",
-    "Share with me via Nextcloud" : "Share with me via Nextcloud",
+    "Share with me through my #Omni365 Federated Cloud ID, see {url}" : "Share with me through my #Omni365 Federated Cloud ID, see {url}",
+    "Share with me through my #Omni365 Federated Cloud ID" : "Share with me through my #Omni365 Federated Cloud ID",
+    "Share with me via Omni365" : "Share with me via Omni365",
     "Cloud ID copied" : "Cloud ID copied",
     "Copy" : "Copy",
     "Clipboard not available. Please copy the cloud ID manually." : "Clipboard not available. Please copy the cloud ID manually.",
@@ -71,6 +71,6 @@ OC.L10N.register(
     "Incoming share could not be processed" : "Incoming share could not be processed",
     "Cloud ID copied to the clipboard" : "Cloud ID copied to the clipboard",
     "Copy to clipboard" : "Copy to clipboard",
-    "You can share with anyone who uses a Nextcloud server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialog. It looks like person@cloud.example.com" : "You can share with anyone who uses a Nextcloud server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialogue. It looks like person@cloud.example.com"
+    "You can share with anyone who uses a Omni365 server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialog. It looks like person@cloud.example.com" : "You can share with anyone who uses a Omni365 server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialogue. It looks like person@cloud.example.com"
 },
 "nplurals=2; plural=(n != 1);");

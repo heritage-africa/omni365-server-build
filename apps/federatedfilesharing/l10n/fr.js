@@ -6,7 +6,7 @@ OC.L10N.register(
     "Couldn't establish a federated share." : "Impossible d'établir un partage fédéré.",
     "Couldn't establish a federated share, maybe the password was wrong." : "Impossible d’établir un partage fédéré, peut-être que le mot de passe est incorrect.",
     "Federated Share request sent, you will receive an invitation. Check your notifications." : "Demande de partage fédéré envoyée, vous allez recevoir une invitation. Vérifiez vos notifications.",
-    "Couldn't establish a federated share, it looks like the server to federate with is too old (Nextcloud <= 9)." : "Impossible d'établir un partage fédére, il semble que le serveur avec lequel fédérer est trop vieux (Nextcloud <=9)",
+    "Couldn't establish a federated share, it looks like the server to federate with is too old (Omni365 <= 9)." : "Impossible d'établir un partage fédére, il semble que le serveur avec lequel fédérer est trop vieux (Omni365 <=9)",
     "It is not allowed to send federated group shares from this server." : "Il n'est pas autorisé d'envoyer des partages à des groupes fédérés depuis ce serveur.",
     "Sharing %1$s failed, because this item is already shared with the account %2$s" : "Impossible de partager %1$s car il est déjà partagé avec le compte %2$s",
     "Not allowed to create a federated share to the same account" : "Non autorisé à créer un partage fédéré vers le même compte",
@@ -44,9 +44,9 @@ OC.L10N.register(
     "Allow people to publish their data to a global and public address book" : "Autoriser les personnes à publier leurs données dans un carnet d'adresses global et public",
     "Trusted federation" : "Fédération de confiance",
     "Automatically accept shares from trusted federated accounts and groups by default" : "Accepter par défaut automatiquement les partages provenant de comptes et de groupes fédérés de confiance",
-    "Share with me through my #Nextcloud Federated Cloud ID, see {url}" : "Partagez avec moi grâce à mon ID de Cloud Fédéré #Nextcloud, voir {url}.",
-    "Share with me through my #Nextcloud Federated Cloud ID" : "Partagez avec moi grâce à mon ID de Cloud Fédéré #Nextcloud",
-    "Share with me via Nextcloud" : "Partagez avec moi via Nextcloud",
+    "Share with me through my #Omni365 Federated Cloud ID, see {url}" : "Partagez avec moi grâce à mon ID de Cloud Fédéré #Omni365, voir {url}.",
+    "Share with me through my #Omni365 Federated Cloud ID" : "Partagez avec moi grâce à mon ID de Cloud Fédéré #Omni365",
+    "Share with me via Omni365" : "Partagez avec moi via Omni365",
     "Cloud ID copied" : "ID de Cloud copié",
     "Copy" : "Copier",
     "Clipboard not available. Please copy the cloud ID manually." : "Presse-papiers non disponible. Veuillez copier l'ID cloud manuellement.",
@@ -71,6 +71,6 @@ OC.L10N.register(
     "Incoming share could not be processed" : "Le partage entrant n'a pas pu être traité",
     "Cloud ID copied to the clipboard" : "ID de Cloud Fédéré copié dans le presse-papiers",
     "Copy to clipboard" : "Copier dans le presse-papiers",
-    "You can share with anyone who uses a Nextcloud server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialog. It looks like person@cloud.example.com" : "Vous pouvez partager avec quiconque utilise un serveur Nextcloud ou un serveur ou service compatible Open Cloud Mesh (OCM). Renseignez simplement son ID de Cloud Fédéré sur une instance fédérée dans la boîte de dialogue de partage. Cela ressemble à utilisateur@cloud.exemple.com."
+    "You can share with anyone who uses a Omni365 server or other Open Cloud Mesh (OCM) compatible servers and services! Just put their Federated Cloud ID in the share dialog. It looks like person@cloud.example.com" : "Vous pouvez partager avec quiconque utilise un serveur Omni365 ou un serveur ou service compatible Open Cloud Mesh (OCM). Renseignez simplement son ID de Cloud Fédéré sur une instance fédérée dans la boîte de dialogue de partage. Cela ressemble à utilisateur@cloud.exemple.com."
 },
 "nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

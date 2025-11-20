@@ -3,7 +3,7 @@ OC.L10N.register(
     {
     "Dashboard" : "Dashboard",
     "Dashboard app" : "Dashboard app",
-    "Start your day informed\n\nThe Nextcloud Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking." : "Start your day informed\n\nThe Nextcloud Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking.",
+    "Start your day informed\n\nThe Omni365 Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking." : "Start your day informed\n\nThe Omni365 Dashboard is your starting point of the day, giving you an overview of your upcoming appointments, urgent emails, chat messages, incoming tickets, latest tweets and much more! People can add the widgets they like and change the background to their liking.",
     "Weather" : "Weather",
     "Status" : "Status",
     "Good morning" : "Good morning",
@@ -24,6 +24,6 @@ OC.L10N.register(
     "Weather data from Met.no" : "Weather data from Met.no",
     "geocoding with Nominatim" : "geocoding with Nominatim",
     "elevation data from OpenTopoData" : "elevation data from OpenTopoData",
-    "For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information." : "For your privacy, the weather data is requested by your Nextcloud server on your behalf so the weather service receives no personal information."
+    "For your privacy, the weather data is requested by your Omni365 server on your behalf so the weather service receives no personal information." : "For your privacy, the weather data is requested by your Omni365 server on your behalf so the weather service receives no personal information."
 },
 "nplurals=2; plural=(n != 1);");

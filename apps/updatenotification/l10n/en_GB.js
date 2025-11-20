@@ -8,11 +8,11 @@ OC.L10N.register(
     "{app} updated to version {version}" : "{app} updated to version {version}",
     "Update notifications" : "Update notifications",
     "The update server could not be reached since %d days to check for new updates." : "The update server could not be reached since %d days to check for new updates.",
-    "Please check the Nextcloud and server log files for errors." : "Please check the Nextcloud and server log files for errors.",
+    "Please check the Omni365 and server log files for errors." : "Please check the Omni365 and server log files for errors.",
     "Update to {serverAndVersion} is available." : "Update to {serverAndVersion} is available.",
     "Update for {app} to version %s is available." : "Update for {app} to version %s is available.",
     "Update notification" : "Update notification",
-    "Displays update notifications for Nextcloud, app updates, and provides the SSO for the updater." : "Displays update notifications for Nextcloud, app updates, and provides the SSO for the updater.",
+    "Displays update notifications for Omni365, app updates, and provides the SSO for the updater." : "Displays update notifications for Omni365, app updates, and provides the SSO for the updater.",
     "Give feedback" : "Give feedback",
     "Get started" : "Get started",
     "No changelog available" : "No changelog available",
@@ -59,8 +59,8 @@ OC.L10N.register(
     "Changelog for app {app}" : "Changelog for app {app}",
     "What's new in {app} version {version}" : "What's new in {app} version {version}",
     "{version} is available. Get more information on how to update." : "{version} is available. Get more information on how to update.",
-    "<strong>All</strong> apps have a compatible version for this Nextcloud version available." : "<strong>All</strong> apps have a compatible version for this Nextcloud version available.",
-    "_<strong>%n</strong> app has no compatible version for this Nextcloud version available._::_<strong>%n</strong> apps have no compatible version for this Nextcloud version available._" : ["<strong>%n</strong> app has no compatible version for this Nextcloud version available.","<strong>%n</strong> apps have no compatible version for this Nextcloud version available."],
-    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Nextcloud GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Nextcloud Enterprise package." : "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Nextcloud GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Nextcloud Enterprise package."
+    "<strong>All</strong> apps have a compatible version for this Omni365 version available." : "<strong>All</strong> apps have a compatible version for this Omni365 version available.",
+    "_<strong>%n</strong> app has no compatible version for this Omni365 version available._::_<strong>%n</strong> apps have no compatible version for this Omni365 version available._" : ["<strong>%n</strong> app has no compatible version for this Omni365 version available.","<strong>%n</strong> apps have no compatible version for this Omni365 version available."],
+    "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Omni365 GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Omni365 Enterprise package." : "For enterprise use. Provides always the latest patch level, but will not update to the next major release immediately. That update happens once Omni365 GmbH has done additional hardening and testing for large-scale and mission-critical deployments. This channel is only available to customers and provides the Omni365 Enterprise package."
 },
 "nplurals=2; plural=(n != 1);");
