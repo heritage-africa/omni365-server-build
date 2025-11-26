@@ -26,4 +26,5 @@ jobs:
       - name: Create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release create latest server.tgz
+        run: |
+          gh release create "$GITHUB_REF_NAME" server.tgz
