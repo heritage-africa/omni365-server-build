@@ -163,7 +163,7 @@ export default {
 <style scoped lang="scss">
 .login-box {
 	// Same size as dashboard panels
-	width: 320px;
+	width: 640px;
 	box-sizing: border-box;
 
 	&__wrapper {
